@@ -57,6 +57,6 @@
   - MPL并不授予用户对于开发者商标的使用权。
 
   
-## 可以用两张图片来总结：##
+## 可以用两张图片来总结：
 [![](https://img-blog.csdnimg.cn/img_convert/5ffe732d206eb1c4df3e39f391675818.gif)]
 [![](https://img-blog.csdnimg.cn/img_convert/bd6a6f1406399512a5d02f5bc0380189.png)]
