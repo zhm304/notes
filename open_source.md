@@ -58,5 +58,8 @@
 
   
 ## 可以用两张图片来总结：
-[![](https://img-blog.csdnimg.cn/img_convert/5ffe732d206eb1c4df3e39f391675818.gif)]
-[![](https://img-blog.csdnimg.cn/img_convert/bd6a6f1406399512a5d02f5bc0380189.png)]
+[![](https://img-blog.csdnimg.cn/img_convert/5ffe732d206eb1c4df3e39f391675818.gif)]()
+可以闭源许可：BSD许可，MIT许可，Apache许可
+必须开源许可：LGPL许可，Mozilla许可，GPL许可
+
+[![](https://img-blog.csdnimg.cn/img_convert/bd6a6f1406399512a5d02f5bc0380189.png)]()
